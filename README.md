@@ -1,1 +1,1 @@
-This repo has the final project Jupyter Notebook for CSCA 5622
+This repo has the Jupyter Notebook for the final project of CSCA 5622
